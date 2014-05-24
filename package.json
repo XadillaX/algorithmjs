@@ -1,0 +1,26 @@
+{
+  "name": "algorithmjs",
+  "version": "0.0.1",
+  "description": "Node.js implement of some base algorithm and base data-structure.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XadillaX/algorithmjs.git"
+  },
+  "keywords": [
+    "algorithm",
+    "data-structure"
+  ],
+  "author": "XadillaX",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/XadillaX/algorithmjs/issues"
+  },
+  "homepage": "https://github.com/XadillaX/algorithmjs"
+}
