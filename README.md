@@ -6,7 +6,7 @@ Node.js implement of some base algorithm and base data-structure.
 Contains
 -----------
 
-+ Data Structor
++ Data Structure
   - Link List
   - ...
 + Algorithm
