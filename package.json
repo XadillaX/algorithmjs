@@ -1,6 +1,6 @@
 {
   "name": "algorithmjs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Node.js implement of some base algorithm and base data-structure.",
   "main": "index.js",
   "directories": {
