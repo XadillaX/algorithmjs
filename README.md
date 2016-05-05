@@ -10,7 +10,7 @@ Contains
   - Link List
   - ...
 + Algorithm
-  - Quick Sort
+  - ~~Quick Sort~~
   - ...
 
 Usage
@@ -24,9 +24,9 @@ $ npm install algorithmjs
 
 Reference at [tester](https://github.com/XadillaX/algorithmjs/blob/master/test/ds/linklist.js).
 
-### Quick Sort
+### ~~Quick Sort (Deprecated)~~
 
-Reference at [tester](https://github.com/XadillaX/algorithmjs/blob/master/test/algo/qsort.js).
+~~Reference at [tester](https://github.com/XadillaX/algorithmjs/blob/master/test/algo/qsort.js).~~
 
 Contributors
 -----------
