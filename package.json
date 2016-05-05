@@ -1,6 +1,6 @@
 {
   "name": "algorithmjs",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Node.js implement of some base algorithm and base data-structure.",
   "main": "index.js",
   "directories": {
@@ -18,7 +18,7 @@
     "data-structure"
   ],
   "author": "XadillaX",
-  "license": "GPLv2",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/XadillaX/algorithmjs/issues"
   },
